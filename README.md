@@ -4,7 +4,9 @@ Increase the assembly version of the selected project in the solution via contex
 forked from https://github.com/romanjetich/VersionUp.V2
 
 added
+
 yy.MM.dd.HHmm
+
 yy.MM.dd.HHm0
 
 
